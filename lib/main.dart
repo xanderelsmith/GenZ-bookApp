@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage> {
           child: ListView(
             children: [
               const Center(
-                child: Text('Easily store your books here',
+                child: Text('Easily store your books here ',
                     style:
                         TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
               ),
